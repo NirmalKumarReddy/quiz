@@ -1,0 +1,67 @@
+.navbar{
+  background:#f68220;
+  /* background-color: ; */
+  border-radius: 10px;
+  
+}
+.navbar ul{
+  overflow: auto;
+}
+.navbar li{
+  float:left;
+  list-style: none; 
+  margin: 13px 20px;
+  
+
+}
+.navbar li a{
+  padding: 3px 3px;
+  text-decoration: none;
+  color: white;
+}
+.navbar li a:hover{
+  color: black;
+}
+.search{
+  float: right;
+  color: white;
+  padding: 12px 75px;
+}
+.navbar input{
+  border: 2px solid black;
+  border-radius: 14px;
+  padding: 3px 17px;
+  width: 129px;
+}
+body{
+  background-image: url('/5.jpg');
+
+  background-repeat:no-repeat ;
+  background-size: cover;
+}
+.quiz{
+  border:2px;
+  margin: 60px;
+  padding: 10px ;
+  width: 150px;
+  background-color: #f68220;
+   /* justify-content: center; */
+  float: left;
+  text-align: center;
+  
+}
+.quiz1{
+  border:2px;
+  margin: 60px;
+  padding: 10px ;
+  width: 150px;
+  background-color: #f68220;
+   /* justify-content: center; */
+  text-align: center;
+  float: right;
+
+}
+.box{
+  width: 100%;
+  
+}
